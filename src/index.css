@@ -1,0 +1,35 @@
+html,body,#root {height:100%;margin:unset;}
+
+body {
+    color:white;
+    background-color: black; 
+}
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+strong {
+    color:yellow
+}
+
+.legend button {
+    background-color: #333;
+    color:white;
+    border:0px;
+    font-size: 1em;
+    padding: 3px 10px;
+    cursor: pointer;
+        padding: 10px 10px;
+    border-radius: 8px;
+    border-left: 2px solid white;;
+}
+.legend  button:hover {
+    background-color: yellow;
+    color:black;
+
+}
+.legend a {
+    color:cyan
+}
